@@ -134,7 +134,7 @@ if (isset($_SESSION['username'])) {
 			</form>
 			<button style="width:100%" id="btnLocation" onclick="javascript:getLocation();">Get my location</button>
 			<div id="map-canvas" width="50%" height="50%"></div>
-			<footer>made by <a href="http://kevinrabinovich.me">kevinrabinovich</a>.</footer>
+			<footer>Made by <a href="http://kevinrabinovich.me">Kevin Rabinovich</a>.</footer>
 		</div>
 		<script>
 			document.getElementById('form').style.display="none";
